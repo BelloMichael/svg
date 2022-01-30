@@ -1,0 +1,149 @@
+.set{
+	text-align: center;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+}
+
+.my-photo{
+	fill:red;
+	transition:transform .7s;
+}
+
+svg:hover .my-photo{
+	fill:green
+	transform:scale(.8);
+}
+
+.my-picture{
+	fill:coral;
+	transition:transform .7s;
+
+}
+
+
+svg:hover .my-picture{
+	fill:grey;
+	transform:scale(.8);
+}
+
+.loveth{
+	fill:purple;
+	transition:transform .7s;
+
+}
+
+
+svg:hover .loveth{
+	fill:skyblue;
+	transform:scale(.8);
+}
+
+.super{
+	fill:black;
+	transition:transform .7s;
+}
+
+
+svg:hover .super{
+	fill:coral;
+	transform:scale(.8);
+}
+
+.rental{
+	fill:yellow;
+	transition:all 1.3s;
+}
+
+
+svg:hover .rental{
+	fill:orange;
+	transform:scale(.8);
+}
+
+.ox{
+	fill:green;
+	transition:all 1.3s;
+}
+
+
+svg:hover .ox{
+	fill:blue;
+	transform:scale(.8);
+}
+
+.boat{
+	fill:green;
+	transition:all 1.3s;
+}
+
+
+svg:hover .boat{
+	fill:purple;
+	transform:scale(.8);
+}
+
+.eng{
+	fill:red;
+	transition:all 1.3s;
+}
+
+
+svg:hover .eng{
+	fill:grey;
+	transform:scale(.8);
+}
+
+.does{
+	fill:red;
+	transition:all 1.3s;
+}
+
+
+svg:hover .does{
+	fill:green;
+	transform:scale(.8);
+}
+
+.millet{
+	fill:orange;
+	transition:all 1.3s;
+}
+
+svg:hover .millet{
+	fill:yellow;
+	transform:scale(.8);
+}
+
+
+.make{
+	fill:brown;
+	transition:all 1.3s;
+}
+
+svg:hover .make{
+	fill:green;
+	transform:scale(.8);
+}
+
+.ben{
+	fill:brown;
+	transition:all 1.3s;
+}
+
+svg:hover .ben{
+	fill:skyblue;
+	transform:scale(.8);
+}
+
+.maths{
+	fill:brown;
+	transition:all 1.3s;
+}
+
+svg:hover .maths{
+	fill:blue;
+	transform:scale(.8);
+}
